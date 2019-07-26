@@ -17,8 +17,8 @@ Unlike a coventional application that has a front end, back end and a database t
 
 **Layout of blockchain application**
 
-- *Problems solved*: 1. Helping users create account wallets in case they dont have one and assisting them for buying ether for the                                 transaction. 
-                     2. Monitors election result, during the process of voting by ensuring factors like illegitimate voting does not 
+- *Problems solved*: -  Helping users create account wallets in case they dont have one and assisting them for buying ether for the                                 transaction. 
+                     -  Monitors election result, during the process of voting by ensuring factors like illegitimate voting does not 
                         happen. It also ensure that the elction results are available immediatly post the voting.
 - *Technology used*: 1. Solidity
                      2. Web3.js
