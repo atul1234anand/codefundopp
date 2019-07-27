@@ -23,8 +23,9 @@ Unlike a coventional application that has a front end, back end and a database t
                         happen. It also ensure that the elction results are available immediatly post the voting.
 
 * *Technology used*:
-    * Solidity
-    * Web3.js
-    * Azure Workbench
-    * Node.js
-    * React.js
+    * Solidity: Used to develop smart contracts.
+    * Truffle: Used to migrate, compile and test smart contracts.
+    * Web3.js: Can be used to connect blockchain to application/web browser and the user will be able to interact with the    blockchain. Also used for creating user accounts.
+    * Azure Workbench: Used to deploy blockchain.
+    * Node.js: Used in the installation of various tools using npm.
+    * React.js: Used to develop the front end facility for the dApp.
